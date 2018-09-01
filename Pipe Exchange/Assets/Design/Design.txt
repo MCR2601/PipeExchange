@@ -1,0 +1,31 @@
+Design of Pipe Exchange by Marc 'MCR' Reiterer
+===================================================
+
+This game was created for the Game Makers toolkit game jam 2018
+Theme: Genre without mechanic
+The game has to resemble a genre but has to leave out something very essenstial we all assosiate with it
+
+
+The IDEA of PipeExchange:
+
+Genre: Pipe Connecting Game
+--> You have to connect pipes to allow something to flow from Point A to Point B
+
+The mechanic left out:
+--> You can not see the pipes because there is concrete above them *duh*
+--> Only way to know where the water is flowing is to break concrete tiles, which will lock the pipe in place and show you when it is getting water + on the side of the map
+
+--> you can plant trees on tiles without a pipe --> if a pipe pums water into it the tree will grow
+
+
+Tiles will be sprites size
+32x32 with usually a 1 pixel large border for easier visability
+
+
+
+----------------
+Yes i just didnt want to draw the pipes i admit it
+
+
+
+
