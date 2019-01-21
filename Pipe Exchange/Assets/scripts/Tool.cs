@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface ITile {
+public enum Tool {
 
-
-
-
+	CounterClockwise,
+    Clockwise,
+    Hammer,
+    Seed
 }
